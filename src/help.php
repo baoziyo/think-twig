@@ -1,6 +1,6 @@
 <?php
 
-namespace yunwuxin\twig {
+namespace baoziyo\twig {
 
     use think\Model;
     use Twig\Environment;

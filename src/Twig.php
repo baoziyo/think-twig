@@ -20,7 +20,7 @@ use Twig\Loader\LoaderInterface;
 use Twig\RuntimeLoader\FactoryRuntimeLoader;
 use Twig\TwigFilter;
 use Twig\TwigFunction;
-use baozi\twig\Extension;
+use baoziyo\twig\Extension;
 use twig\Filter;
 use twig\Functions;
 

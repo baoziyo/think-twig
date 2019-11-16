@@ -1,9 +1,9 @@
 <?php
 
-namespace baozi\twig;
+namespace baoziyo\twig;
 
 use Twig\Extension\AbstractExtension;
-use baozi\twig\nodevisitors\GetAttrAdjuster;
+use baoziyo\twig\nodevisitors\GetAttrAdjuster;
 
 class Extension extends AbstractExtension
 {
