@@ -1,6 +1,6 @@
 <?php
 
-namespace yunwuxin\twig\nodes;
+namespace baozi\twig\nodes;
 
 use Twig\Compiler;
 use Twig\Extension\SandboxExtension;

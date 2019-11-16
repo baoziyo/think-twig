@@ -1,12 +1,12 @@
 <?php
 
-namespace yunwuxin\twig\nodevisitors;
+namespace baozi\twig\nodevisitors;
 
 use Twig\Environment;
 use Twig\Node\Expression\GetAttrExpression;
 use Twig\Node\Node;
 use Twig\NodeVisitor\NodeVisitorInterface;
-use yunwuxin\twig\nodes\GetAttrNode;
+use baozi\twig\nodes\GetAttrNode;
 
 class GetAttrAdjuster implements NodeVisitorInterface
 {
