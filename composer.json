@@ -1,0 +1,25 @@
+{
+    "name": "baozi/think-twig",
+    "description": "Twig Template For ThinkPHP5",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "baozi",
+        }
+    ],
+    "require": {
+        "twig/twig": "2.11.3",
+        "topthink/framework": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "baozi\\think\\": "src/"
+        },
+        "classmap": [
+            "src/Twig.php"
+        ],
+        "files": [
+            "src/help.php"
+        ]
+    }
+}
