@@ -9,7 +9,6 @@
     ],
     "require": {
         "twig/twig": "2.11.3",
-        "topthink/framework": "^5.1"
     },
     "autoload": {
         "psr-4": {
