@@ -7,9 +7,6 @@
             "name": "baozi"
         }
     ],
-    "require": {
-        "twig/twig": "2.11.3"
-    },
     "autoload": {
         "psr-4": {
             "baozi\\think\\": "src/"
