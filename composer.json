@@ -2,6 +2,7 @@
     "name": "baoziyo/think-twig",
     "description": "Twig Template For ThinkPHP5",
     "license": "BSD-3-Clause",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "baoziyo"
