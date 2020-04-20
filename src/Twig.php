@@ -38,7 +38,7 @@ class Twig
         'cache_path' => '',
         'strict_variables' => true,
         'auto_add_function' => false,
-        'base_template_class' => 'Twig_Template',
+        'base_template_class' => 'Twig\Template',
         'functions' => [],
         'filters' => [],
         'globals' => [],
