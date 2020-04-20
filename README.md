@@ -2,7 +2,7 @@
 
 ## 安装
 ~~~
-composer require yunwuxin/think-twig
+composer require baoziyo/think-twig
 ~~~
 
 ## 使用 
